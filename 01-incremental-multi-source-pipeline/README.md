@@ -2,7 +2,7 @@
 
 Proyecto de aprendizaje aplicado en Databricks orientado a la consolidación de información proveniente de múltiples orígenes mediante Scala, Spark SQL y tablas Delta.
 
-> 🚧 Work in Progress · Proyecto actualmente en desarrollo.
+>➡️ [Explorar proyecto](./01-incremental-multi-source-pipeline/)
 
 ---
 

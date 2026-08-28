@@ -1,4 +1,4 @@
-# 01 — Incremental Multi-Source Pipeline
+# 01 — Data Platform Migration | Incremental Pipelines
 
 Proyecto de aprendizaje aplicado en Databricks orientado a la consolidación de información proveniente de múltiples orígenes mediante Scala, Spark SQL y tablas Delta.
 
